@@ -1,6 +1,2 @@
-{{
-    config(materialized='table')
-    
-}}
 
-select * from raw.globalmart.customer
+select * from raw.globalmart_stg.customer

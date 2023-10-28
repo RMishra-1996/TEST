@@ -3,4 +3,4 @@
     
 }}
 
-select * from raw.globalmart.orders
+select * from raw.globalmart_stg.orders
